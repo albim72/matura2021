@@ -1,0 +1,6 @@
+Nr_klienta	Imiê	Nazwisko	Rok
+1	Jan	Burak	2002
+2	Henryk	Kloc	2001
+3	Anna	Gnyp	1999
+4	Negro	Lio	2004
+5	Ola	Kos	2003
